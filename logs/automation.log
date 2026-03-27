@@ -1,0 +1,11 @@
+08:59:35.228 [TestNG-tests-2] INFO  testCase.TC002_LoginTest - ***TC002_STARTED***
+08:59:35.439 [TestNG-tests-1] INFO  testCase.TC002_LoginTest - ***TC002 COMPLETED***
+08:59:35.441 [TestNG-tests-1] INFO  testCase.TC002_LoginTest - ***TC002_STARTED***
+08:59:52.078 [TestNG-tests-2] INFO  testCase.TC002_LoginTest - ***TC002 COMPLETED***
+08:59:52.080 [TestNG-tests-2] INFO  testCase.TC002_LoginTest - ***TC002_STARTED***
+08:59:52.310 [TestNG-tests-1] INFO  testCase.TC002_LoginTest - ***TC002 COMPLETED***
+08:59:52.312 [TestNG-tests-1] INFO  testCase.TC002_LoginTest - ***TC002_STARTED***
+09:00:08.598 [TestNG-tests-2] INFO  testCase.TC002_LoginTest - ***TC002 COMPLETED***
+09:00:08.600 [TestNG-tests-2] INFO  testCase.TC002_LoginTest - ***TC002_STARTED***
+09:00:08.665 [TestNG-tests-1] INFO  testCase.TC002_LoginTest - ***TC002 COMPLETED***
+09:00:08.666 [TestNG-tests-1] INFO  testCase.TC002_LoginTest - ***TC002_STARTED***
